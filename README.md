@@ -8,7 +8,7 @@ Features
 
 Installation
 Clone this repository:
-* git clone https://github.com/your-username/Emojipedia.git
+* git clone https://github.com/riiddhii757/Emojipedia.git
 
 Navigate to the project directory:
 * cd Emojipedia
