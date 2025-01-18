@@ -1,5 +1,5 @@
 emojipedia
-A simple React app that displays a list of emojis along with their names and meanings, similar to a mini version of Emojipedia.
+* A simple React app that displays a list of emojis along with their names and   meanings, similar to a mini version of Emojipedia.
 
 Features
 * Displays a list of emoji entries with names and meanings.
@@ -8,10 +8,10 @@ Features
 
 Installation
 Clone this repository:
-* git clone https://github.com/your-username/emojipedia.git
+* git clone https://github.com/your-username/Emojipedia.git
 
 Navigate to the project directory:
-* cd React-mapping-props
+* cd Emojipedia
 
 Install dependencies:
 * npm install
